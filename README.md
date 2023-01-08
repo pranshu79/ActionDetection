@@ -60,6 +60,6 @@ similar goes for the test folder.
 
 First I have removed all the files that have -1 in thier naming and created seperate folders for each action containing coresponding videos using python and pandas. Then I have extracted frames from the video using opencv and then applied CNN on the folders that contains videos correspondoing to their names.
 
-##### Observation: In some videos more than one action is performed.
+###### Observation: In some videos more than one action is performed.
 
 
